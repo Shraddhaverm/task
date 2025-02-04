@@ -1,4 +1,5 @@
-PROJECT FINDING SUMMARY
+PROJECT FINDING SUMMARY: 
+
 This project analyzed transaction data to identify the most profitable products and the characteristics of the most loyal customers. Based on the analysis, the key insights are:
 
 1. Top 3 Most Profitable Products
